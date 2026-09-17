@@ -1,18 +1,21 @@
-# Hi, I'm Logan Ferris 👋
+# Logan Ferris
 
-I build software for the construction industry — full-stack platforms that run
-estimating, field operations, project financials, and accounting for a working
-general contractor.
+Co-Founder & CTO of **[QuoteVault](https://www.getquotevault.com/)** · Builder of **WSJ+ Construction Management** · Alabama
 
-## What I work on
+I build software for industries that run on trust and paperwork: insurance and construction.
 
-- 🏗️ **WSJ+** — a construction-management platform: project management, change
-  orders, drawings/OCR, field reporting, and financial reconciliation
-- 🤖 **Applied AI** — document vision/OCR pipelines and on-prem LLM features
-  (Ollama, vLLM) running on self-hosted infrastructure
-- ⚙️ **Infrastructure** — self-hosted CI/CD with GitHub Actions, Docker
-  blue-green deploys, canary releases, and Sentry observability
+## What I'm building
+
+- **[QuoteVault](https://www.getquotevault.com/about)**: an insurance quote marketplace for Alabama. Consumers request auto, home, renters or life quotes, and licensed producers reach them through a masked relay instead of their real phone number.
+- **[WSJ+ Construction Management](https://apps.apple.com/us/app/wsj-construction-management/id6753719379)**: the construction management platform I designed and built for WSJ Enterprises, on the web and in the App Store and Google Play. Project tracking, daily reports, team management, and budget and cost reporting.
 
 ## Stack
 
-`TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Prisma` · `Redis` · `Docker` · `GitHub Actions`
+`TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Prisma` · `Stripe` · `Twilio` · `GitHub Actions`
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/loganryanferris/)
+- [QuoteVault press kit](https://www.getquotevault.com/press#logan-ferris)
+
+Auburn University, Harbert College of Business (Finance)
